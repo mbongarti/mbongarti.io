@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Research"
+    url: /research/
+  - title: "Scientific Computing"
+    url: /Scientific_Computing/
+  - title: "Publications"
+    url: /Publications/
+  - title: "CV"
     url: /about/
