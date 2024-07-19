@@ -16,3 +16,5 @@ I earned my Ph.D. in Mathematics from the University of Memphis under the mentor
 
 </p>
 Currently my main application topics include PDE-constrained optimization, in particular machine learning techniques for PDE-constrained games and applications to energy markets. I also have contributions in epidemiology and quantum computing.
+
+</p>
