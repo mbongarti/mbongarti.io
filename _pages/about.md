@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I work as a postdoctoral researcher of mathematics at the Weierstrass Institute, in Berlin, Germany. My main topics of research fall under the umbrella of partial differential equations, control, optimization, and numerical analysis. I love working with experts from different fields and contributing to the exciting advancements in applied mathematics that impact science and engineering.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I earned my Ph.D. in Mathematics from the University of Memphis under the mentorship of Profs. Irena Lasiecka and Roberto Triggiani where I also enjoyed teaching for almost four years. My dissertation was about the boundary feedback stabilization of a critical third-order (in time) semilinear acoustic wave equation, motivated by the cool tech behind high-intensity focused ultrasound. With a decent grasp of Python, I'm passionate about taking on complex mathematical challenges and helping push the boundaries of applied mathematics.
