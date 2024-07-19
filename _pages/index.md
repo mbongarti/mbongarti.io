@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/photo_black_cc.jpg" width="100px" alt="100px" align="right" style="display:block;margin-bottom: auto;margin-left:auto;margin-right:auto;padding-left: auto;padding-right: auto;" z-index="1" />
+<img src="/assets/images/photo_black_cc.jpg" width="350px" alt="Marcelo Bongarti" align="right" style="display:block;margin-bottom: auto;margin-left:auto;margin-right:auto;padding-left: auto;padding-right: auto;" z-index="1" />
 <p style="text-align: justify">
 I work as a postdoctoral researcher of mathematics at the Weierstrass Institute, in Berlin, Germany. My main topics of research fall under the umbrella of partial differential equations, control, optimization, and numerical analysis. I love working with people from different fields and contributing to the advancement in applied mathematics that impact science and engineering.
 
