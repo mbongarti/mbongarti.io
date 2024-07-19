@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/mbongarti.io/assets/images/photo_black_cc.jpg" width="380px" alt="Brendan Keith" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+<img src="/mbongarti.io/assets/images/photo_black_cc.jpg" width="380px" alt="Marcelo Bongarti" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 
 <p style="text-align: justify">
 I mwork as a postdoctoral researcher of mathematics at the Weierstrass Institute, in Berlin, Germany. My main topics of research fall under the umbrella of partial differential equations, control, optimization, and numerical analysis. I love working with people from different fields and contributing to the advancement in applied mathematics that impact science and engineering.
