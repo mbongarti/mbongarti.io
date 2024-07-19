@@ -58,7 +58,8 @@ plugins:
 author:
   name   : "Marcelo Bongarti"
   avatar : "/assets/images/photo_black_cc.jpg"
-  bio    : "Researcher of mathematics at the Weierstrass institute for applied analysis and stochastics in Berlin, Germany."
+  bio    : "Researcher of mathematics at the Weierstrass institute for applied analysis and stochastics."
+  location : "Berlin, Germany."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,6 +73,7 @@ author:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
+  
 
 footer:
   links:
